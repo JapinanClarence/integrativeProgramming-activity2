@@ -15,7 +15,7 @@ public class Event {
     /**
      * Database connection
      *
-     * @return
+     * @return connection
      * @throws SQLException
      */
     private static Connection connect() throws SQLException {
